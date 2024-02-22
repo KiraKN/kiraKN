@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Kira
 #### I am engaged in mobile and web development, design, and science.
-![I am engaged in mobile and web development, design, and science.]()
 
 I like to travel, develop and study.
 
@@ -22,8 +21,6 @@ Skills: JS / HTML / CSS / Java / GitHub / SQL / C#.NET / C++ / Python
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraKN&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kiraKN)  
-![counter](https://[YourEndpoint].m.pipedream.net)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KiraKN&repo=profile)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
