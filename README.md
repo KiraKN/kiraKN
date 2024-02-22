@@ -22,6 +22,4 @@ Skills: JS / HTML / CSS / Java / GitHub / SQL / C#.NET / C++ / Python
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kiraKN)  
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KiraKN&repo=profile)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kirakn)
