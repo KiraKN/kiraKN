@@ -8,7 +8,7 @@ I like to travel, develop and study.
 
 Skills: JS / HTML / CSS / Java / GitHub / SQL / C#.NET / C++ / Python
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my site. 
 - 🌱 I’m currently learning android developing 
 - 📫 How to reach me: kirak.n.kuznetsova@yandex.ru 
 
