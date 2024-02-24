@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Kira
 
-![banner github1](https://github.com/KiraKN/kiraKN/assets/110681893/0a215264-e887-4b57-99c9-eb72f7abd141)
+![banner github1](https://github.com/KiraKN/kiraKN/assets/110681893/927b7081-de6c-4f95-a631-97b4df5f51eb)
 
 #### I am engaged in mobile and web development, design, and science.
 
